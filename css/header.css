@@ -1,0 +1,65 @@
+.header {
+	background-image: url("../img/Rectangle.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 810px;
+	display: flex;
+	justify-content: center;
+}
+
+.header-text {
+	text-align: center;
+	width: 100%;
+}
+
+.header-text h1 {
+	font-size: 44px;
+	font-family: Roboto;
+	line-height: 50.63px;
+	font-weight: 400;
+	font-style: normal;
+	margin-bottom: 14px;
+	margin-top: 53px;
+}
+
+.header-text p {
+	font-family: Roboto;
+	font-size: 15px;
+	line-height: 18.75px;
+	letter-spacing: 1px;
+	margin-bottom: 22px;
+}
+
+.header-text-button-l a {
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 22.5px;
+	width: 201px;
+	height: 33px;
+	padding: 8px 37px;
+	background-color: #FF4A32;
+	font-family: Roboto;
+	color: #FFFFFF;
+	border-radius: 35px;
+	margin: 0 6px;
+}
+
+.sub-header-logo-company {
+	height: 83px;
+	background-color: #000000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo-company-1 {
+	margin-right: 122px;
+}
+
+.logo-company-2 {
+	margin-right: 122px;
+}
+
+.logo-company-3 {
+	margin-right: 146px;
+}

@@ -1,0 +1,126 @@
+.section-cont {
+	display: flex;
+}
+
+.section-text {
+	text-align: center;
+	margin-top: 52px;
+}
+
+.section-text p {
+	width: 687px;
+	margin: auto;
+	font-size: 15px;
+	font-family: Roboto;
+	line-height: 18.75px;
+	font-weight: 400;
+}
+
+.section-text h2 {
+	font-size: 32px;
+	line-height: 36px;
+	font-style: Regular;
+	font-family: Roboto;
+	font-weight: 400;
+	margin-bottom: 17px;
+}
+
+.section-text hr {
+	color: #CFCFCF;
+	width: 70px;
+	height: 2px;
+	margin-top: 25px; 
+}
+
+.section-cont {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+	margin-top: 45px;
+	margin-bottom: 20px;
+}
+
+.section-cont img {
+	width: 29px;
+	height: 47px;
+	margin: 0;
+}
+
+.section-cont p {
+	margin-top: 14px;
+}
+
+.section-cont h2 {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.section-cont-lead {
+	width: 580px;
+	height: 580px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../img/Rectangle (2).png");
+	margin-right: 10px;
+}
+
+.section-cont-lead-2 {
+	width: 580px;
+	height: 580px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../img/Rectangle (3).png");
+	margin-left: 10px;
+}
+
+.section-2 {
+	background-image: url("../img/Rectangle (4).png");
+	background-size: cover;
+	height: 736px;
+	display: flex;
+	justify-content: center;
+}
+
+.section-text-2 {
+	text-align: center;
+	margin-top: 29px;
+}
+
+.section-text-2 h2 {
+	font-size: 45px;
+	font-weight: 700;
+	line-height: 50.63px;
+	font-family: Roboto;
+	margin-bottom: 0;
+	margin-top: 11px;
+}
+
+.section-text-2 p {
+	font-size: 15px;
+	line-height: 18.75px;
+	letter-spacing: 1px;
+	font-family: Roboto;
+	width: 488px;
+	margin-top: 15px;
+}
+
+.section-text-button-l-2 {
+	margin-top: 20px;
+}
+
+.section-text-button-l-2 a {
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 22.5px;
+	width: 201px;
+	height: 33px;
+	padding: 8px 37px;
+	background-color: #FF4A32;
+	font-family: Roboto;
+	color: #FFFFFF;
+	border-radius: 35px;
+}

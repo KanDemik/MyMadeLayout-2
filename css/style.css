@@ -1,0 +1,24 @@
+@font-face {
+	font-family: Roboto, sans-serif;
+	src: url("/font/Roboto-Regular.ttf");
+}
+
+.frame-cont {
+	display: flex;
+	justify-content: center;
+	margin-top: 55px;
+}
+
+.frame-cont-box {
+	width: 1100px;
+	display: flex;
+	justify-content: center;
+}
+
+.frame-box-1 {
+	margin-right: 10px; 
+}
+
+.frame-box-2 {
+	margin-left: 10px; 
+}

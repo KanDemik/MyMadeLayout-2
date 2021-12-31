@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav-link {
+	display: flex;
+	align-items: center;
+}
+
+.nav-link a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+	color: #000000;
+	margin-right: 22px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: Regular;
+	letter-spacing: 1px;
+}
+
+.nav-link img {
+	margin: 15px 135px 15px 11px;
+}
+
+.nav-user {
+	margin-right: 20px;
+	display: flex;
+	align-items: center;
+}
+
+.nav-user img {
+	margin-left: 11px;
+}

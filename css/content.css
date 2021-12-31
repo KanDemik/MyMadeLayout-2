@@ -1,0 +1,53 @@
+.content-img-cont-1 {
+	width: 480px;
+	height: 480px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../img/Rectangle (7).png");
+	margin-left: auto;
+}
+
+.content-img-cont-2 {
+	width: 480px;
+	height: 480px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../img/Rectangle (8).png");
+}
+
+.content-img-cont-3 {
+	width: 480px;
+	height: 480px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../img/Rectangle (9).png");
+	margin-right: auto;
+}
+
+.content {
+	display: flex;
+	text-align: center;
+}
+
+.content h3 {
+	font-size: 29px;
+	line-height: 30px;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-family: Roboto;
+	margin-bottom: 0;
+}
+
+.content h4 {
+	font-size: 18px;
+	line-height: 23.44px;
+	color: #FFFFFF;
+	font-family: Roboto;
+	margin-top: 15px;
+}
+
+.content-img-cont-text {
+}

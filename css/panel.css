@@ -1,0 +1,34 @@
+.panel {
+	background-color: #000;
+}
+
+.panel-cont {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.panel-cont-item {
+	color: #fff;
+	font-family: Roboto;
+	text-align: center;
+	width: 288px;
+	margin: 35px 0 52px 0;
+}
+
+.panel-cont-item h2 {
+	font-size: 31px;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 25px;
+}
+
+.pane-cont-item p {
+	font-size: 15px;
+	font-weight: 400;
+	margin: 0;
+}
+
+.panel-cont-item img {
+	margin: 0;
+}
